@@ -23,4 +23,4 @@ defensive & cloud security. network engineer intern at disney, previously infose
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gregpierre&bg_color=0d1117&color=c9d1d9&line=8b949e&point=f0f6fc&area=true&area_color=8b949e&title_color=c9d1d9&hide_border=true&custom_title=andy%27s%20contribution%20graph" width="100%" />
+<img src="assets/graph.svg" alt="contribution graph" width="100%" />
