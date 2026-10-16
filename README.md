@@ -15,7 +15,7 @@ defensive security engineer, detection builder & honeytoken enthusiast. building
 - **languages:** python · typescript · javascript · sql · bash
 - **security:** alert triage · pcap analysis · honeytokens · nist 800-53 / rmf · container hardening
 - **backend:** flask · node · rest apis
-- **databases:** sqlite · postgresql
+- **databases:** sqlite
 - **tools:** git · docker · linux · github actions · wireshark · cloudflare
 
 ---
