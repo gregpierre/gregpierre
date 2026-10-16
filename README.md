@@ -10,13 +10,16 @@ defensive security engineer, detection builder & honeytoken enthusiast. building
 
 ### core skills
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,flask,nodejs,nextjs,docker,linux,git,githubactions,sqlite,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,cs,cpp,bash,powershell,linux,docker,git,githubactions,flask,sqlite,cloudflare&theme=dark" />
 
-- **languages:** python · typescript · javascript · sql · bash
-- **security:** alert triage · pcap analysis · honeytokens · nist 800-53 / rmf · container hardening
+- **languages:** python · c# · c++
+- **defense:** siem · edr · incident response · threat hunting · alert triage · log analysis
+- **detection:** ids / ips · snort · suricata · sigma · yara · mitre att&ck · honeytokens
+- **network:** pcap analysis · wireshark · firewall rules · network monitoring
+- **hardening:** nist 800-53 / rmf · vulnerability management · container hardening · least privilege
 - **backend:** flask · node · rest apis
 - **databases:** sqlite
-- **tools:** git · docker · linux · github actions · wireshark · cloudflare
+- **tools:** git · docker · linux · github actions · cloudflare
 
 ---
 
