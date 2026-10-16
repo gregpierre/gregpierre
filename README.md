@@ -4,7 +4,7 @@
 
 defensive security student building detection, triage, and hardening labs: cloud alert triage, pcap threat hunting, and RMF / NIST 800-53 hardening.
 
-🌐 [infainted.dev](https://infainted.dev)
+🌐 [infainted.dev](https://infainted.dev) • 💼 [linkedin](https://www.linkedin.com/in/pierregreg)
 
 ---
 
